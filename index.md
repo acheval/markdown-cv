@@ -2,12 +2,13 @@
 layout: cv
 title: Alexis CHEVALLIER's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexis CHEVALLIER
+IT System Administrator, Junior Linux Administrator
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alexischevallier93+cv@gmail.com"">alexischevallier93@gmail.com</a>
+| <a href="https://github.com/acheval">GitHub page</a>
+| <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
 </div>
 
 
