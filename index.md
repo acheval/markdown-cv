@@ -14,7 +14,8 @@ IT System Administrator, Junior Linux Administrator
 
 ## Currently
 
-Standing on the shoulders of giants
+System Administration at IntesaSan Paolo Servitia for Positive Thinking Company
+(Luxembourg)
 
 ### Specialized in
 
