@@ -8,8 +8,8 @@ IT System Administrator, Junior Linux Administrator
 <div id="webaddress">
 <a href="mailto:alexischevallier93+cv@gmail.com">alexischevallier93@gmail.com</a>
 | <a href="https://github.com/acheval">GitHub page</a>
-| <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a><br>
-| <a href="tel:0033610539424">0033.6.10.53.94.24</a>
+| <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
+| <br><a href="tel:0033610539424">0033.6.10.53.94.24</a>
 </div>
 
 
