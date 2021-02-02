@@ -15,43 +15,58 @@ IT System Administrator, Junior Linux Administrator
 
 ## Currently
 
-System Administration at IntesaSan Paolo Servitia for Positive Thinking Company
-(Luxembourg)
+__System Administration at Intesa San Paolo Servitia for Positive Thinking Company__
 
-### Specialized in
+*Luxembourg, LU*
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Current missions
 
+- Linux Administration
+- Windows Administration
+- Software Integration
 
-### Research interests
+### Technologies
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- RHEL 7, RHEL 8, CentOS 8, CentOS 9
+- Splunk, Nagios, Ansible
+- Windows Server 2008R2, Windows Server 2012R2, Windows Server 2016
+- SQL Server, Active Directory
 
+## Past Experiences
+
+`2018 - 2020`
+__Systems Engineering at SES Engineering for Adneom__
+
+*Betzdorf, LU*
+
+`2017 - 2018`
+__Operations Engineer at SES Engineering for Adneom__
+
+*Betzdorf, LU*
+
+`2015 - 2017`
+__Systems and Network Administrator at Serians Konica Minolta__
+
+*Lyon, FR*
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2017`
+__Systems and Network Engineering Manager at CESI Entreprise__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+*Lyon, FR*
 
-- Sizar
+`2012 - 2014`
+__IT Technician at CESI Entreprise__
 
-`1667 - death`
-__Trinity College, Cambridge__
+*Toulouse, FR*
 
-- Fellow
+## Certifications
 
+`2021`
+__RedHat__
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+RedHat Certified System Administrator, EX200 
 
 
 ## Publications
@@ -74,7 +89,7 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Hobbies and Interests
 
 `1600`
 __Royal Mint__, London
@@ -87,8 +102,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2021
 
 
