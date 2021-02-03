@@ -16,17 +16,17 @@ IT System Administrator, Junior Linux Administrator
 </div>
 
 
-## Currently
+I'm actively looking for a Linux Sys Admin mission
 
-__System Administration at ISP Servitia for Positive Thinking Company__, *Luxembourg, LU*
+## Current mission
 
-### Current missions
+__Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Luxembourg, LU*
 
 - Linux Administration
 - Windows Administration
 - Software Integration
 
-### Technologies
+## Technologies
 
 - RHEL 7 - 8
 - CentOS 8 - 9
@@ -40,30 +40,49 @@ __System Administration at ISP Servitia for Positive Thinking Company__, *Luxemb
 ## Past Experiences
 
 `2018 - 2020`
-__Systems Engineering at SES Engineering for Adneom__, *Betzdorf, LU*
+__Systems Engineering at [SES Engineering](https://www.ses.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Betzdorf, LU*
+
+*International team of ~15 people*
+
+- Systems architecture
+- Scripting
+- Project coordination
 
 `2017 - 2018`
-__Operations Engineer at SES Engineering for Adneom__, *Betzdorf, LU*
+__Operations Engineer at [SES Engineering](https://www.ses.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Betzdorf, LU*
+
+*International team of ~20 people*
+
+- Day to day operating
+- Monitoring
+- Lvl 3 support
+- Server deployment
+- Server maintenance
+- Troubleshooting
 
 `2015 - 2017`
-__Systems and Network Administrator at Serians Konica Minolta__, *Lyon, FR*
+__Systems and Network Administrator at [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__, *Lyon, FR*
+
+*Team of 3 people*
 
 `2012 - 2014`
-__IT Technician at Edisys__, *Toulouse, FR*
+__IT Technician at [Edisys](https://www.spigao.com/)__, *Toulouse, FR*
+
+*Team of 3 people*
 
 ## Education
 
 `2015 - 2017`
-__Systems and Network Engineering Manager at CESI Entreprise__, *Lyon, FR*
+__Systems and Network Engineering Manager at [CESI Entreprise](https://lyon.cesi.fr/)__, *Lyon, FR*
 
 `2012 - 2014`
-__IT Technician at CESI Entreprise__, *Toulouse, FR*
+__IT Technician at [CESI Entreprise](https://toulouse.cesi.fr/)__, *Toulouse, FR*
 
 ## Certifications
 
 `2021`
 
-__RedHat__, RedHat Certified System Administrator, EX200 
+__RedHat__, [RedHat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=210-003-992), EX200 
 
 ## Knowledge
 
@@ -106,6 +125,21 @@ __Tools and Technologies__
 
 - Vim
 - Git
+- Pandoc
+
+__Methodologies__
+
+- ITIL
+- Documentation
+
+__Skills__
+
+__Languages__
+
+- Powershell
+- Bash
+- Python
+- Markdown
 
 ## Languages
 
@@ -120,6 +154,7 @@ __English__, Fluent
 - New Technologies
 - Literature
 - Travel
+- Science
 - FOSS
 
 
