@@ -84,9 +84,11 @@ p code {
 
 
 ul { 
+    column-count:3;
+    /*column-rule: dotted 1px #333;*/
 	position: relative;
 	left: 28%;
-	width: 65%;
+	width: 80%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
