@@ -2,6 +2,7 @@
 layout: cv
 title: Alexis CHEVALLIER's CV
 ---
+
 # Alexis CHEVALLIER
 IT System Administrator, Junior Linux Administrator
 
@@ -10,6 +11,8 @@ IT System Administrator, Junior Linux Administrator
 | <a href="https://github.com/acheval">GitHub page</a>
 | <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
 | <br><a href="tel:0033610539424">0033.6.10.53.94.24</a>
+| <a href="https://goo.gl/maps/xKx6McCoTGfsvVGX9">Based in Luxembourg</a>
+| 27 y.o. 
 </div>
 
 
@@ -76,6 +79,7 @@ __Tools and Technologies__
 - VMware vCenter 6,7
 - Nutanix
 - KVM
+- Podman LXC
 
 `OS`
 
