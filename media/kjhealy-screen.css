@@ -61,6 +61,13 @@ body {
 	margin-left: 1em;
 }
 
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align:right;
+}
+
 p {
 	position: relative;
 	left: 33%;
@@ -84,6 +91,7 @@ p code {
 
 
 ul { 
+    column-count: 3;
 	position: relative;
 	left: 33%;
 	width: 65%;
