@@ -16,11 +16,19 @@ IT System Administrator, Junior Linux Administrator
 </div>
 
 
-I'm actively looking for a Linux Sys Admin mission
+<div id="description">
+<p>
+I'm actively looking for a Linux Sys Admin mission. Switching from Windows
+Administration, I want a new challenge.I'm striving to become a better version
+of myself everyday and try my best never to settle on my knowledge or skills.
+</p>
+</div>
 
 ## Current mission
 
-__Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Luxembourg, LU*
+__Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
+*Luxembourg, LU*
+
 
 - Linux Administration
 - Windows Administration
@@ -40,7 +48,8 @@ __Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com
 ## Past Experiences
 
 `2018 - 2020`
-__Systems Engineering at [SES Engineering](https://www.ses.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Betzdorf, LU*
+__Systems Engineering at [SES Engineering](https://www.ses.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
+*Betzdorf, LU*
 
 *International team of ~15 people*
 
@@ -49,7 +58,8 @@ __Systems Engineering at [SES Engineering](https://www.ses.com/) for [Positive T
 - Project coordination
 
 `2017 - 2018`
-__Operations Engineer at [SES Engineering](https://www.ses.com/) for [Positive Thinking Company](https://positivethinking.tech/)__, *Betzdorf, LU*
+__Operations Engineer at [SES Engineering](https://www.ses.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
+*Betzdorf, LU*
 
 *International team of ~20 people*
 
@@ -61,28 +71,32 @@ __Operations Engineer at [SES Engineering](https://www.ses.com/) for [Positive T
 - Troubleshooting
 
 `2015 - 2017`
-__Systems and Network Administrator at [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__, *Lyon, FR*
+__Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__,  
+*Lyon, FR*
 
 *Team of 3 people*
 
 `2012 - 2014`
-__IT Technician at [Edisys](https://www.spigao.com/)__, *Toulouse, FR*
+__IT Technician, [Edisys](https://www.spigao.com/)__,  
+*Toulouse, FR*
 
 *Team of 3 people*
 
 ## Education
 
 `2021`
-__RedHat Linux Automation with Ansible__, [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible) RH294
+__RedHat Linux Automation with Ansible RH294 [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible)__
 
 `2020`
-__RedHat Rapid Track Course__, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course) RH199
+__RedHat Rapid Track Course RH199, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course)__
 
 `2015 - 2017`
-__Systems and Network Engineering Manager at [CESI Entreprise](https://lyon.cesi.fr/)__, *Lyon, FR*
+__Systems and Network Engineering Manager, [CESI Entreprise](https://lyon.cesi.fr/)__,  
+*Lyon, FR*
 
 `2012 - 2014`
-__IT Technician at [CESI Entreprise](https://toulouse.cesi.fr/)__, *Toulouse, FR*
+__IT Technician, [CESI Entreprise](https://toulouse.cesi.fr/)__,  
+*Toulouse, FR*
 
 ## Certifications
 
@@ -103,7 +117,7 @@ __Tools and Technologies__
 
 - VMware vCenter 6,7
 - Nutanix
-- KVM
+- libvirt KVM
 - Podman LXC
 
 `OS`
@@ -127,6 +141,12 @@ __Tools and Technologies__
 - YubiKey
 - SSSD
 
+`Scripting`
+
+- Powershell
+- Bash
+- Python
+
 `Hardware`
 
 - HP servers
@@ -137,6 +157,7 @@ __Tools and Technologies__
 - Vim
 - Git
 - Pandoc
+- Markdown
 
 __Methodologies__
 
@@ -144,13 +165,6 @@ __Methodologies__
 - Documentation
 
 __Skills__
-
-__Languages__
-
-- Powershell
-- Bash
-- Python
-- Markdown
 
 ## Languages
 
@@ -161,9 +175,10 @@ __English__, Fluent
 ## Hobbies and Interests
 
 - Calisthenics
-- Climbing
+- Bouldering
 - New Technologies
 - Literature
+- Philosophy
 - Travel
 - Science
 - FOSS
