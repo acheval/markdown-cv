@@ -72,6 +72,12 @@ __IT Technician at [Edisys](https://www.spigao.com/)__, *Toulouse, FR*
 
 ## Education
 
+`2021`
+__RedHat Linux Automation with Ansible__, [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible) RH294
+
+`2020`
+__RedHat Rapid Track Course__, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course) RH199
+
 `2015 - 2017`
 __Systems and Network Engineering Manager at [CESI Entreprise](https://lyon.cesi.fr/)__, *Lyon, FR*
 
@@ -82,7 +88,7 @@ __IT Technician at [CESI Entreprise](https://toulouse.cesi.fr/)__, *Toulouse, FR
 
 `2021`
 
-__RedHat__, [RedHat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=210-003-992), EX200 
+__RedHat__, [RedHat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=210-003-992) EX200 
 
 ## Knowledge
 
@@ -115,6 +121,11 @@ __Tools and Technologies__
 
 - Ansible
 - Infoblox IPAM
+
+`Authentication`
+
+- YubiKey
+- SSSD
 
 `Hardware`
 
