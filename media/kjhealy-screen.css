@@ -94,7 +94,7 @@ ul {
     column-count: 3;
 	position: relative;
 	left: 33%;
-	width: 65%;
+	width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -175,6 +175,14 @@ a:hover {
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
+}
+
+#description {
+	margin-top: 1em;
+	position: relative;
+	left: 33%;
+    width: 50%;
+    text-align: justify;
 }
 
 #webaddress a {
