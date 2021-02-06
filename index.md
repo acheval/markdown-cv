@@ -17,11 +17,9 @@ IT System Administrator, Junior Linux Administrator
 
 
 <div id="description">
-<p>
 I'm actively looking for a Linux Sys Admin mission. Switching from Windows
 Administration, I want a new challenge.I'm striving to become a better version
 of myself everyday and try my best never to settle on my knowledge or skills.
-</p>
 </div>
 
 ## Current mission
