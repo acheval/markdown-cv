@@ -88,7 +88,7 @@ ul {
     /*column-rule: dotted 1px #333;*/
 	position: relative;
 	left: 28%;
-	width: 70%;
+	width: 60%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -177,7 +177,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-    width: 60%;
+    width: 42%;
     text-align: justify;
 }
 
@@ -200,5 +200,8 @@ strong {
 }
 
 
+.footer:after {
+    content: test;
+}
 
 

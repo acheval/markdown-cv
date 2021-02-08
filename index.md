@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Alexis CHEVALLIER's CV
+author: Alexis CHEVALLIER
 ---
 
 # Alexis CHEVALLIER
@@ -16,11 +17,11 @@ IT System Administrator, Junior Linux Administrator
 </div>
 
 
-<div id="description">
-I'm actively looking for a Linux Sys Admin mission. Switching from Windows
-Administration, I want a new challenge.I'm striving to become a better version
-of myself everyday and try my best never to settle on my knowledge or skills.
-</div>
+<div id="description"> I'm actively looking for a Linux Sys Admin mission.
+After working on both Windows and Linux, I much prefer the latter's philosophy
+and approch. My interst in FLOSS has significantly grown in the recent years.
+I'm striving to become a better version of myself everyday and try
+my best never to settle on my knowledge or skills. </div>
 
 ## Current mission
 
@@ -155,7 +156,7 @@ __Tools and Technologies__
 - Vim
 - Git
 - Pandoc
-- Markdown
+- Pandoc & Git markdown
 
 __Methodologies__
 
@@ -168,7 +169,7 @@ __Skills__
 
 __French__, Mothertongue
 
-__English__, Fluent
+__English__, Fluent 985/990 TOEIC
 
 ## Hobbies and Interests
 
