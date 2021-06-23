@@ -169,6 +169,12 @@ __Tools and Technologies__
 - HP servers
 - Dell servers
 
+`Networking`
+
+- Switching
+- Routing basics
+- DNS
+
 `Misc`
 
 - Vim
