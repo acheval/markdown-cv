@@ -17,11 +17,11 @@ IT System Administrator, Junior Linux Administrator
 </div>
 
 
-<div id="description"> I'm actively looking for a Linux Sys Admin mission.
+I'm actively looking for a Linux Sys Admin mission.
 After working on both Windows and Linux, I much prefer the latter's philosophy
 and approch. My interst in FLOSS has significantly grown in the recent years.
 I'm striving to become a better version of myself everyday and try
-my best never to settle on my knowledge or skills. </div>
+my best never to settle on my knowledge or skills.
 
 ## Current mission
 
@@ -32,6 +32,8 @@ __Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com
 - Linux Administration
 - Windows Administration
 - Software Integration
+- Automation
+- Documentation
 
 ## Technologies
 
@@ -53,7 +55,9 @@ __Systems Engineering at [SES Engineering](https://www.ses.com/), [Positive Thin
 *International team of ~15 people*
 
 - Systems architecture
+- Server maintenance
 - Scripting
+- Documentation
 - Project coordination
 
 `2017 - 2018`
@@ -64,10 +68,11 @@ __Operations Engineer at [SES Engineering](https://www.ses.com/), [Positive Thin
 
 - Day to day operating
 - Monitoring
-- Lvl 3 support
+- L3 support
 - Server deployment
 - Server maintenance
 - Troubleshooting
+- Documentation
 
 `2015 - 2017`
 __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__,  
@@ -75,11 +80,21 @@ __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.
 
 *Team of 3 people*
 
+- Hardware setup
+- Project coordination
+- Documentation
+- Technical consulting
+- Pre sales accompaniement
+
 `2012 - 2014`
 __IT Technician, [Edisys](https://www.spigao.com/)__,  
 *Toulouse, FR*
 
 *Team of 3 people*
+
+- L1 & L2 support
+- Worksation setup and maintenance
+- Server deployment and maintenance
 
 ## Education
 
@@ -111,13 +126,14 @@ __Tools and Technologies__
 
 - Nagios
 - Centreon
+- Splunk
 
 `Virtualisation`
 
 - VMware vCenter 6,7
 - Nutanix
 - libvirt KVM
-- Podman LXC
+- LXC
 
 `OS`
 
@@ -144,7 +160,6 @@ __Tools and Technologies__
 
 - Powershell
 - Bash
-- Python
 
 `Hardware`
 
@@ -156,7 +171,7 @@ __Tools and Technologies__
 - Vim
 - Git
 - Pandoc
-- Pandoc & Git markdown
+- Markdown
 
 __Methodologies__
 
@@ -183,4 +198,4 @@ __English__, Fluent 985/990 TOEIC
 - FOSS
 
 
-`Last updated: January 2021`
+`Last updated: June 2021`
