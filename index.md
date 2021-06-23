@@ -94,8 +94,8 @@ __IT Technician, [Edisys](https://www.spigao.com/)__,
 *Team of 3 people*
 
 - L1 & L2 support
-- Worksation administration
-- Server administration
+- Worksation admin
+- Server admin
 
 ## Education
 
