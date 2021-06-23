@@ -101,9 +101,11 @@ __IT Technician, [Edisys](https://www.spigao.com/)__,
 
 `2021`
 __RedHat Linux Automation with Ansible RH294 [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible)__
+*Online*
 
 `2020`
 __RedHat Rapid Track Course RH199, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course)__
+*Online*
 
 `2015 - 2017`
 __Systems and Network Engineering Manager, [CESI Entreprise](https://lyon.cesi.fr/)__,  
