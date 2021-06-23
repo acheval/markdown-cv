@@ -29,9 +29,9 @@ __Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com
 *Luxembourg, LU*
 
 
-- Linux Administration
-- Windows Administration
-- Software Integration
+- Linux admin
+- Windows admin
+- Software integration
 - Automation
 - Documentation
 
@@ -81,6 +81,7 @@ __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.
 *Team of 3 people*
 
 - Hardware setup
+- Customer support
 - Project coordination
 - Documentation
 - Technical consulting
@@ -93,8 +94,8 @@ __IT Technician, [Edisys](https://www.spigao.com/)__,
 *Team of 3 people*
 
 - L1 & L2 support
-- Worksation setup and maintenance
-- Server deployment and maintenance
+- Worksation administration
+- Server administration
 
 ## Education
 

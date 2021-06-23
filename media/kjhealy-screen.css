@@ -177,16 +177,16 @@ a:hover {
 	font-size: 80%;
 }
 
+#webaddress a {
+	text-decoration: none;
+}
+
 #description {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
     width: 33%;
     text-align: justify;
-}
-
-#webaddress a {
-	text-decoration: none;
 }
 
 em {
