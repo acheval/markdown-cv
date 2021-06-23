@@ -17,7 +17,7 @@ IT System Administrator, Junior Linux Administrator
 </div>
 
 
-I'm actively looking for a Linux Sys Admin mission.
+I am looking for a Linux Automation and Systems Engineering mission.
 After working on both Windows and Linux, I much prefer the latter's philosophy
 and approch. My interst in FLOSS has significantly grown in the recent years.
 I'm striving to become a better version of myself everyday and try
@@ -128,6 +128,7 @@ __Tools and Technologies__
 - Nagios
 - Centreon
 - Splunk
+- Splunk Enterprise Security
 
 `Virtualisation`
 
@@ -141,6 +142,7 @@ __Tools and Technologies__
 - Debian 9, 10
 - Arch Linux
 - RedHat 7, 8
+- CentOS 8, 9
 - Win. Server 2008 - 2016
 
 `Backup`
@@ -181,6 +183,10 @@ __Methodologies__
 
 __Skills__
 
+- Project coordination
+- Technological watch
+
+
 ## Languages
 
 __French__, Mothertongue
@@ -196,7 +202,7 @@ __English__, Fluent 985/990 TOEIC
 - Philosophy
 - Travel
 - Science
-- FOSS
+- FLOSS
 
 
 `Last updated: June 2021`
