@@ -79,7 +79,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 65%;
+	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -87,7 +87,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -22%;
+	left: -30%;
 }
 
 
@@ -147,7 +147,7 @@ h2 {
 	color: #a00;
 	margin-top: 0.75em;
 	position: relative;
-/*	top: 1.2em;*/
+	top: -0.15em;
 	text-align: left;
 	width: 15%;
 }
