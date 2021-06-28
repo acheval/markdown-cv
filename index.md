@@ -9,11 +9,12 @@ IT System Administrator, Junior Linux Administrator
 
 <div id="webaddress">
 <a href="mailto:alexischevallier93+cv@gmail.com">alexischevallier93@gmail.com</a>
-| <a href="https://github.com/acheval">GitHub page</a>
-| <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
+| <a href="https://github.com/acheval">GitHub</a>
+| <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn</a>
+| 27 y.o. 
 | <br><a href="tel:0033610539424">0033.6.10.53.94.24</a>
 | <a href="https://goo.gl/maps/xKx6McCoTGfsvVGX9">Based in Luxembourg</a>
-| 27 y.o. 
+| Driving license
 </div>
 
 
@@ -34,11 +35,13 @@ __Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com
 - Software integration
 - Automation
 - Documentation
+- Project coordination
 
 ## Technologies
 
 - RHEL 7 - 8
 - CentOS 8 - 9
+- Debian 9 - 10
 - Splunk
 - Nagios
 - Ansible
@@ -100,11 +103,11 @@ __IT Technician, [Edisys](https://www.spigao.com/)__,
 ## Education
 
 `2021`
-__RedHat Linux Automation with Ansible RH294 [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible)__
+__RedHat Linux Automation with Ansible RH294 [RedHat LMS](https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible)__,
 *Online*
 
 `2020`
-__RedHat Rapid Track Course RH199, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course)__
+__RedHat Rapid Track Course RH199, [RedHat LMS](https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course)__,
 *Online*
 
 `2015 - 2017`
@@ -134,17 +137,17 @@ __Tools and Technologies__
 
 `Virtualisation`
 
-- VMware vCenter 6,7
+- VMware vCenter 6 - 7
 - Nutanix
 - libvirt KVM
 - LXC
 
 `OS`
 
-- Debian 9, 10
+- Debian 9 - 10
 - Arch Linux
-- RedHat 7, 8
-- CentOS 8, 9
+- RedHat 7 - 8
+- CentOS 8 - 9
 - Win. Server 2008 - 2016
 
 `Backup`
