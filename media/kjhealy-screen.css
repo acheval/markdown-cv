@@ -70,10 +70,10 @@ footer {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 30%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-    width: 28%;
+    width: 30%;
     text-align: justify;
 }
 
@@ -92,12 +92,12 @@ p code {
 
 
 ul { 
-    column-count: 3;
+    column-count: 2;
 	position: relative;
-	left: 33%;
-	width: 55%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	left: 30%;
+	width: 30%;
+	margin-bottom: 1em;
+	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -132,13 +132,14 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 30%;
 }
 
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+    left: 30%;
 }
 
 h2 {
@@ -172,10 +173,11 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 30%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
+    width: 33%;
 }
 
 #webaddress a {
