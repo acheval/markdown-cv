@@ -73,7 +73,8 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+    width: 35%;
+    text-align: justify;
 }
 
 code {
@@ -86,7 +87,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -25%;
 }
 
 
