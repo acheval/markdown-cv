@@ -54,24 +54,32 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 10pt;
-	line-height: 1.35em;
+	line-height: 1.33em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align:right;
+}
+
 p {
 	position: relative;
 	left: 28%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0;
 	margin-right: 0;
-	width: 70%;
+	width: 55%;
+    text-align: justify;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 65%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -79,18 +87,18 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -22%;
 }
 
 
 ul { 
-    column-count:3;
+    column-count:2;
     /*column-rule: dotted 1px #333;*/
 	position: relative;
 	left: 28%;
 	width: 60%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+    /*margin-bottom: 1em;*/
+    /*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -137,11 +145,11 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 0.75em;
 	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 18%;
+/*	top: 1.2em;*/
+	text-align: left;
+	width: 15%;
 }
 
 
@@ -157,11 +165,11 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none;
 }
 
 a:hover {
-	color:#39f
+	color:#a00;
 }
 
 #webaddress {
