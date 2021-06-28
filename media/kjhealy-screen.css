@@ -95,7 +95,7 @@ ul {
     column-count: 3;
 	position: relative;
 	left: 33%;
-	width: 50%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -162,11 +162,11 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none;
 }
 
 a:hover {
-	color:#39f
+	color:#a00
 }
 
 #webaddress {
