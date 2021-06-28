@@ -73,13 +73,13 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-    width: 35%;
+    width: 28%;
     text-align: justify;
 }
 
 code {
 	font: normal normal;
-	font-size: 80%;
+	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -87,7 +87,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -25%;
+	left: -30%;
 }
 
 
@@ -146,7 +146,7 @@ h2 {
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	/*top: 1.4em;*/
 	text-align: right;
 	width: 20%;
 }
