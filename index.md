@@ -164,6 +164,12 @@ __Tools and Technologies__
 - YubiKey
 - SSSD
 
+`Security`
+
+- SELinux
+- LUKS
+- Encryption
+
 `Scripting`
 
 - Powershell
@@ -179,6 +185,7 @@ __Tools and Technologies__
 - Switching
 - Routing basics
 - DNS
+- IPoAC
 
 `Misc`
 
