@@ -5,7 +5,7 @@ author: Alexis CHEVALLIER
 ---
 
 # Alexis CHEVALLIER
-IT System Administrator, Junior Linux Administrator
+Linux Administrator, Junior DevOps Administrator
 
 <div id="webaddress">
 <a href="mailto:alexischevallier93+cv@gmail.com">alexischevallier93@gmail.com</a>
