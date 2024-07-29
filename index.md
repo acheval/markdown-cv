@@ -12,8 +12,8 @@ IT System Administrator, Junior Linux Administrator
 | <a href="tel:0033610539424">0033.6.10.53.94.24</a>
 | <a href="https://github.com/acheval">GitHub page</a>
 | <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
-| 27 y.o.
-| <a href="https://goo.gl/maps/xKx6McCoTGfsvVGX9">Based in Luxembourg</a>
+| 30 y.o.
+| <a href="https://maps.app.goo.gl/sodbnPv9ojDoNhpp8">Based in Lyon</a>
 | Driving license
 </div>
 
@@ -24,14 +24,16 @@ and approch. My interst in FLOSS has significantly grown in the recent years.
 I'm striving to become a better version of myself everyday and try
 my best never to settle on my knowledge or skills.
 
-## Current mission
+## Current position
 
-__Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
-*Luxembourg, LU*
+`2021 - now`
+__Application engineer at [EDF](http://www.edf.fr/), [SII](https://sii-group.com/en-FR)__,  
+*Lyon, FR*
 
+*Managing radioprotection applications for France's Nuclear Power Plants*
 
 - Linux admin
-- Windows admin
+- AIX admin
 - Software integration
 - Automation
 - Documentation
@@ -40,16 +42,29 @@ __Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com
 ## Technologies
 
 - RHEL 7 - 8
-- CentOS 8 - 9
-- Debian 9 - 10
-- Splunk
-- Nagios
+- AIX 7.1 - 7.2
+- RHEL Cluster
+- Jenkins
 - Ansible
-- Win. Server 2008 - 2016
-- SQL Server 2017
-- Active Directory
+- Apache 2
+- JBoss 7.1 - 7.4
+- Oracle 11 - 19
+- IBM Websphere
 
 ## Past Experiences
+
+`2020 - 2021`
+__Systems Administration at [ISP Servitia](http://www.intesasanpaoloservitia.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
+*Luxembourg, LU*
+
+*Italian bank and insurance company*
+
+- Linux admin
+- Windows admin
+- Software integration
+- Automation
+- Documentation
+- Project coordination
 
 `2018 - 2020`
 __Systems Engineering at [SES Engineering](https://www.ses.com/), [Positive Thinking Company](https://positivethinking.tech/)__,  
@@ -120,7 +135,7 @@ __IT Technician, [CESI Entreprise](https://toulouse.cesi.fr/)__,
 
 ## Certifications
 
-`2021`
+`2021 - 2024`
 
 __RedHat__, [RedHat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=210-003-992) EX200 
 
@@ -138,26 +153,25 @@ __Tools and Technologies__
 `Virtualisation`
 
 - VMware vCenter 6 - 7
+- Proxmox
 - Nutanix
-- libvirt KVM
-- LXC
 
 `OS`
 
-- Debian 9 - 10
-- Arch Linux
 - RedHat 7 - 8
-- CentOS 8 - 9
-- Win. Server 2008 - 2016
+- Debian
+- Arch Linux
+- AIX 7.1 - 7.2
 
 `Backup`
 
 - Veeam 9
 
-`Management`
+`Automation`
 
 - Ansible
-- Infoblox IPAM
+- Jenkins
+- Terraform
 
 `Authentication`
 
@@ -167,7 +181,6 @@ __Tools and Technologies__
 `Security`
 
 - SELinux
-- LUKS
 - Encryption
 
 `Scripting`
@@ -179,12 +192,15 @@ __Tools and Technologies__
 
 - HP servers
 - Dell servers
+- Minisforum hardware
+- Ubiquiti EdgeRouter
 
 `Networking`
 
 - Switching
 - Routing basics
 - DNS
+- Firewalling
 - IPoAC
 
 `Misc`
@@ -193,6 +209,7 @@ __Tools and Technologies__
 - Git
 - Pandoc
 - Markdown
+- ServiceNow
 
 __Methodologies__
 
@@ -203,7 +220,6 @@ __Skills__
 
 - Project coordination
 - Technological watch
-
 
 ## Languages
 
@@ -223,4 +239,4 @@ __English__, Fluent 985/990 TOEIC
 - FLOSS
 
 
-`Last updated: June 2021`
+`Last updated: July 2024`
