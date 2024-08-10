@@ -19,8 +19,7 @@ Linux Administrator, Junior DevOps Administrator
 
 
 I am looking for a Linux Automation and Systems Engineering mission.
-After working on both Windows and Linux, I much prefer the latter's philosophy
-and approch. My interst in FLOSS has significantly grown in the recent years.
+My interest in FLOSS has significantly grown in the recent years.
 I'm striving to become a better version of myself everyday and try
 my best never to settle on my knowledge or skills.
 
@@ -49,7 +48,7 @@ __Application engineer at [EDF](http://www.edf.fr/), [SII](https://sii-group.com
 - Apache 2
 - JBoss 7.1 - 7.4
 - Oracle 11 - 19
-- IBM Websphere
+- IBM Websphere 8
 
 ## Past Experiences
 
