@@ -19,10 +19,11 @@ Linux Administrator, Junior DevOps Administrator
 </div>
 
 
-I am looking for a Linux Automation and Systems Engineering mission.
-My interest in FLOSS has significantly grown in the recent years.
-I'm striving to become a better version of myself everyday and try
-my best never to settle on my knowledge or skills.
+I am looking for a Linux Automation and Systems Engineering mission. My
+interest in FLOSS has significantly grown in the recent years and I'm looking
+for a mission that would allow me gain knowledge and competence with these
+tools. I'm striving to become a better version of myself everyday and try my
+best never to settle on my knowledge or skills.
 
 ## Current position
 
@@ -93,8 +94,6 @@ __Operations Engineer at [SES Engineering](https://www.ses.com/), [Positive Thin
 - Server maintenance
 - Troubleshooting
 - Documentation
-
-### Older Experiences
 
 `2015 - 2017`
 __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__,  
