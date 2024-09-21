@@ -95,6 +95,7 @@ __Operations Engineer at [SES Engineering](https://www.ses.com/), [Positive Thin
 - Documentation
 
 <div class="noprint">
+
 `2015 - 2017`
 __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__,  
 *Lyon, FR*
@@ -117,6 +118,7 @@ __IT Technician, [Edisys](https://www.spigao.com/)__,
 - L1 & L2 support
 - Worksation admin
 - Server admin
+
 </div>
 
 ## Education
