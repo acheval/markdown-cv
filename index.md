@@ -2,6 +2,7 @@
 layout: cv
 title: Alexis CHEVALLIER's CV
 author: Alexis CHEVALLIER
+date: 2024/09/21
 ---
 
 # Alexis CHEVALLIER
@@ -93,7 +94,7 @@ __Operations Engineer at [SES Engineering](https://www.ses.com/), [Positive Thin
 - Troubleshooting
 - Documentation
 
-<div id="noprint">
+<div class="noprint">
 `2015 - 2017`
 __Systems and Network Administrator, [Konica Minolta](https://www.konicaminolta.fr/fr-fr)__,  
 *Lyon, FR*
