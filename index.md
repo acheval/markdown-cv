@@ -12,7 +12,7 @@ Linux Administrator, Junior DevOps Administrator
 | <a href="tel:0033610539424">0033.6.10.53.94.24</a>
 | <a href="https://github.com/acheval">GitHub page</a>
 | <a href="http://linkedin.com/in/alexis-chevallier">LinkedIn page</a>
-| 30 y.o.
+| 31 y.o.
 | <a href="https://maps.app.goo.gl/sodbnPv9ojDoNhpp8">Based in Lyon</a>
 | Driving license
 </div>
@@ -26,11 +26,13 @@ my best never to settle on my knowledge or skills.
 ## Current position
 
 `2021 - now`
-__Application engineer at [EDF](http://www.edf.fr/), [SII](https://sii-group.com/en-FR)__,  
+__Application Engineer at [EDF](http://www.edf.fr/), [SII](https://sii-group.com/en-FR)__,  
 *Lyon, FR*
 
 *Managing radioprotection applications for France's Nuclear Power Plants*
 
+- Refactoring of Ansible playbooks
+- Infrastructure migration of critical application
 - Linux admin
 - AIX admin
 - Software integration
