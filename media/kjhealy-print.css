@@ -194,12 +194,6 @@ a:hover {
 	text-decoration: none;
 }
 
-@media print{
-  .noprint {
-    display: none;
-    visibility: hidden;
-}
-
 em {
 	font-style: normal;
 	color: #2d4e5e 
