@@ -212,6 +212,12 @@ __Tools and Technologies__
 - Firewalling
 - IPoAC
 
+`Web`
+
+- Apache2
+- Websphere
+- JBoss 7.1/7.4
+
 `Misc`
 
 - Vim
