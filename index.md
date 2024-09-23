@@ -31,7 +31,11 @@ best never to settle on my knowledge or skills.
 __Application Engineer at [EDF](http://www.edf.fr/), [SII](https://sii-group.com/en-FR)__,  
 *Lyon, FR*
 
-*Managing radioprotection applications for France's Nuclear Power Plants*
+*Managing health radioprotection applications for France's Nuclear Power Plants*  
+
+*Team of ~15 people in Lyon and Bordeaux. We were in charge of five applications used
+in Nuclear Power Plants, used to monitor radiation doses gathered by workers during their
+missions*
 
 - Refactoring of Ansible playbooks
 - Infrastructure migration of critical application
