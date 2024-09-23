@@ -242,4 +242,4 @@ __English__, Fluent 985/990 TOEIC
 - FLOSS
 
 
-`Last updated: July 2024`
+`Last updated: September 2024`
