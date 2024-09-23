@@ -174,7 +174,7 @@ __Tools and Technologies__
 
 - Ansible
 - Jenkins
-- Terraform
+- Terraform/OpenTofu
 
 `Authentication`
 
