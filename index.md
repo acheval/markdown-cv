@@ -18,11 +18,11 @@ Linux Administrator, Junior DevOps Administrator
 | Driving license
 </div>
 
-
 I am looking for a Linux Automation and Systems Engineering mission. My
 interest in FLOSS has significantly grown in the recent years and I'm looking
 for a mission that would allow me gain knowledge and competence with these
-tools. I'm striving to become a better version of myself everyday and try my
+tools. As a hobby I also run a homelab in which I try to learn new tools and
+software. I'm striving to become a better version of myself everyday and try my
 best never to settle on my knowledge or skills.
 
 ## Current position
